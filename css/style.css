@@ -4,6 +4,7 @@
 	margin:auto;
 	font-family:sans-serif;
 	background-color: red;
+	overflow: hidden;
 }
 .content, aside{
 	height: 600px;
@@ -21,7 +22,4 @@ aside{
 aside ul{
 	list-style: none;
 	padding-left: 0;
-}
-footer{
-	clear: both;
 }
