@@ -3,6 +3,7 @@
 	width:80%;
 	margin:auto;
 	font-family:sans-serif;
+	background-color: red;
 }
 .content, aside{
 	height: 600px;
@@ -10,7 +11,7 @@
 .content{
 	background-color: #e3e3e3;
 	float:left;
-	width: 60%;
+	width: 80%;
 }
 aside{
 	background-color: green;
@@ -20,4 +21,7 @@ aside{
 aside ul{
 	list-style: none;
 	padding-left: 0;
+}
+footer{
+	clear: both;
 }
