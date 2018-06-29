@@ -1,0 +1,23 @@
+.wrap{
+	min-width: 600px;
+	width:80%;
+	margin:auto;
+	font-family:sans-serif;
+}
+.content, aside{
+	height: 600px;
+}
+.content{
+	background-color: #e3e3e3;
+	float:left;
+	width: 60%;
+}
+aside{
+	background-color: green;
+	float: left;
+	width: 20%;
+}
+aside ul{
+	list-style: none;
+	padding-left: 0;
+}
